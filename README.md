@@ -1,5 +1,3 @@
 ## Hi there 👋
-- <i class="fas fa-folder"></i> **`src/`** — Code source principal
-- <i class="fas fa-file-code"></i> **`index.js`** — Point d'entrée
-- <i class="fas fa-cog"></i> **`config/`** — Fichiers de configuration
-- <i class="fas fa-book"></i> **`README.md`** — Documentation
+- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_explorer.svg" width="16" /> `src/` — Code source
+- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_markdown.svg" width="16" /> `README.md` — Documentation
